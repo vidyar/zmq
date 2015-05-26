@@ -15,6 +15,7 @@ archive: true
 
 script: phpunit --coverage-text
 
+
 build_image: shippable/minv2
 
 archive: true
