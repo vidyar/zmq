@@ -4,6 +4,7 @@ php:
   - 5.4
   - 5.5
 
+
 before_script:
   - git clone https://github.com/mkoppanen/php-zmq.git
   - sh -c "cd php-zmq && phpize && ./configure && make --silent && sudo make install"
