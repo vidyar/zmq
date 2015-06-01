@@ -13,8 +13,8 @@ before_script:
 
 archive: true
 
-script: phpunit --coverage-text
 
+script: phpunit --coverage-text
 
 build_image: shippable/minv2
 
