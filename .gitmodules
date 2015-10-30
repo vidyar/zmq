@@ -1,0 +1,3 @@
+[submodule "test-sm"]
+	path = test-sm
+	url = https://github.com/vidyar/test-sm.git
